@@ -1,21 +1,17 @@
-## HCZ Material theme
+# Jekyll Modern Blog
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+A Simple, Clean and responsive modern blog for jekyll.
 
-### Demo
-* [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
+## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
-#### Feature
+## Attributions
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
-* Sitemap and XML Feed
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
+## License
 
-#### Screenshot
+Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+Changes being that I made it jekyll ready and smushed the CSS together.
