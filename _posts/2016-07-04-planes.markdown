@@ -1,6 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "iOS逆向"
+subtitle: "从零开始"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
