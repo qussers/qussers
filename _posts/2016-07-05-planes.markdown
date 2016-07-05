@@ -1,7 +1,7 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "iOS逆向工程"
+subtitle: "从零开始"
+author: "me"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2016-07-05 12:11:12
