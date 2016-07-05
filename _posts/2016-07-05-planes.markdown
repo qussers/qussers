@@ -1,6 +1,6 @@
 ---
 title:  "iOS"
-subtitle: ""
+subtitle: "wd"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
