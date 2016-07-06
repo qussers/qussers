@@ -11,6 +11,7 @@ date:   2015-04-25 12:12:12
 1.exclusiveTouch
 说明:当在布局中存在多个相邻按钮,用户在操作过程中有大概率同事触发这些事件,通过设置UIView的exclusiveTouch属性规避这种现象.
 一般用法:手势不支持这种用法,更常见的是对UIView中Button的赋值.
+
 for(UIView *subView in superView.sunViews){
     if(subView isKinfOfClass:[UIButton class]){
         [subView setexclusiveTouch:NO];
