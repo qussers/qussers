@@ -13,9 +13,13 @@ date:   2015-04-25 12:12:12
 一般用法:手势不支持这种用法,更常见的是对UIView中Button的赋值.
 
 for(UIView *subView in superView.sunViews){
+
     if(subView isKinfOfClass:[UIButton class]){
+
         [subView setexclusiveTouch:NO];
+
     }
+
 }
 
 ### Aliquam suscipit.
